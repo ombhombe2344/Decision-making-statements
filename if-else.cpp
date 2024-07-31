@@ -1,3 +1,4 @@
+/*om bhombe*/
 #include <iostream>
 using namespace std;
 
