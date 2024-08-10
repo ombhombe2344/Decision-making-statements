@@ -56,3 +56,22 @@ If choice is 7, Output "You selected Sunday."
 Else, Output "Invalid choice. Please enter a number between 1 and 7."
 
 End
+3 quadrant checker
+
+Start
+
+Input: Read the values of x and y.
+
+Process:
+
+If x > 0 and y > 0, Output "The point is in the first quadrant."
+
+Else If x < 0 and y > 0, Output "The point is in the second quadrant."
+
+Else If x < 0 and y < 0, Output "The point is in the third quadrant."
+
+Else If x > 0 and y < 0, Output "The point is in the fourth quadrant."
+
+Else If x == 0 or y == 0, Output "The point is on the axis."
+
+Else, Output "The point is on the origin."
